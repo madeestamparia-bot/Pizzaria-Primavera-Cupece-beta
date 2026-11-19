@@ -1,18 +1,27 @@
-# Pizzaria Primavera — Demo GitHub Pages
+# Pizzaria Primavera Cupecê — Demonstração V5
 
-Demonstração estática do cardápio digital da Pizzaria Primavera Unidade Cupecê, adaptada a partir da base anterior para apresentar o layout, a responsividade e a lógica do pedido por WhatsApp.
+Site estático para **GitHub Pages**, com identidade escura baseada no logotipo da Primavera: preto, vermelho e dourado.
 
-## Destaques
-- tema escuro em azul-marinho com padrão de losangos da referência enviada; detalhes em dourado e bordô
-- pizzas grandes e broto com seleção de sabores
-- suporte a pizza inteira, meio a meio e até 3 sabores na grande
-- bordas recheadas e bordas vulcão
-- seção de esfihas, beirutes e combos
-- carrinho e mensagem final prontos para WhatsApp
-- versão estática ideal para GitHub Pages
+## O fundo geométrico
 
-## Observação
-Esta é uma demonstração: os pedidos ficam salvos apenas no navegador local e não chegam a uma cozinha real.
+O padrão de losangos NÃO é uma foto, nem um PNG. Ele é desenhado dentro da folha `primavera-v5.css`, com os gradientes nas variáveis `--diamond-lines` e `--diamond-facets`. Basta ajustar cores e escala nessas variáveis para personalizar a geometria.
 
-## Tema visual v4
-O arquivo `tema-losangos.css` é carregado após os estilos anteriores e define o tema escuro em todas as áreas. A textura original fica em `assets/losangos-azul.png`. Para publicar alterações no GitHub Pages, envie todo o conteúdo descompactado na raiz do repositório.
+## Funcionalidades
+
+- 86 sabores de pizzas Grande/Broto, 56 esfihas, beirutes e combos importados do cardápio enviado.
+- Monte uma pizza com um, dois ou três sabores (limites por tamanho) e visualize as partes.
+- Borda recheada, massa, observações, carrinho e checkout.
+- Mensagem de WhatsApp formatada automaticamente.
+- Preços da pizza por sabor de maior valor, conforme lógica reaproveitada do site anterior; **confirmar essa regra com a pizzaria antes de vender**.
+
+## Publicação
+
+Extraia todos os arquivos na raiz do repositório e ative Settings → Pages → Deploy from a branch → main /(root). O `index.html` já está na raiz.
+
+## Atenção: versão demonstrativa
+
+- Pedidos e acompanhamento ficam só no **localStorage deste navegador**; não há painel servidor nem gestão compartilhada.
+- O WhatsApp real aparece como contato no layout, mas o destino de envio foi deixado vazio em `data/settings.json` para evitar que pedidos simulados sejam enviados à pizzaria. A apresentação ainda abre a mensagem pronta no WhatsApp.
+- A taxa de entrega permanece “a confirmar” por bairro enquanto não houver uma tabela conferida.
+- Fotos de pizza são **ilustrativas** e nem todas correspondem à receita real. Para esfihas e combos, usei ilustrações vetoriais da interface em vez de fotos incorretas.
+- O portal informado `pedir.delivery/app/pizzariaprimaveracupece/menu` exibiu apenas a tela inicial “Carregando o cardápio…” na consulta pública. Os dados do catálogo foram extraídos das fotos de cardápio fornecidas, e devem ser validados.

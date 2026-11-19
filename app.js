@@ -89,7 +89,7 @@ document.addEventListener('click',e=>{const button=e.target.closest('[data-actio
 if(e.target.closest('[data-close-builder]')){closeBuilder();return}if(e.target.closest('[data-close-cart]')){closeCart();return}if(!act)return;
 const id=Number(button.dataset.id);
 switch(act){case'category':ui.category=button.dataset.cat;ui.pizzaLimit=12;renderCategories();renderPizzas();break;
-case'open-pizza':openPizza(id);break;case'add-drink':{const item=cart.find(p=>p.type==='drink'&&p.drinkId===id);if(item)item.quantity++;else addToCart({type:'drink',drinkId:id,quantity:1});saveCart();toast('Item adicionada!');break}
+case'open-pizza':openPizza(id);break;case'add-drink':{const item=cart.find(p=>p.type==='drink'&&p.drinkId===id);if(item)item.quantity++;else addToCart({type:'drink',drinkId:id,quantity:1});saveCart();toast('Item adicionado ao carrinho!');break}
 case'builder-size':{const s=size(button.dataset.size);builder.sizeId=s.id;builder.targetParts=builder.targetParts&&Math.min(builder.targetParts,s.maxFlavors);builder.flavorIds=builder.flavorIds.filter(i=>s.prices[String(i)]!==undefined).slice(0,s.maxFlavors);builder.crustId=s.crusts.some(x=>x.id===builder.crustId)?builder.crustId:s.crusts[0]?.id;renderBuilder({preserveScroll:true});break}
 case'builder-cat':builder.category=button.dataset.cat;renderBuilder({preserveScroll:true});break;
  case'set-parts':builder.targetParts=Math.min(Number(button.dataset.count),size(builder.sizeId).maxFlavors);builder.flavorIds=builder.flavorIds.slice(0,builder.targetParts);renderBuilder({preserveScroll:true});break;

@@ -1,0 +1,2071 @@
+{
+  "sizes": [
+    {
+      "id": 1049,
+      "name": "Grande",
+      "basePrice": 50.0,
+      "maxFlavors": 3,
+      "priceBehavior": "highest",
+      "prices": {
+        "1": 60.0,
+        "2": 68.0,
+        "3": 63.0,
+        "4": 50.0,
+        "5": 64.0,
+        "6": 64.0,
+        "7": 58.0,
+        "8": 64.0,
+        "9": 60.0,
+        "10": 57.0,
+        "11": 60.0,
+        "12": 60.0,
+        "13": 60.0,
+        "14": 65.0,
+        "15": 62.0,
+        "16": 50.0,
+        "17": 60.0,
+        "18": 50.0,
+        "19": 70.0,
+        "20": 62.0,
+        "21": 63.0,
+        "22": 65.0,
+        "23": 50.0,
+        "24": 58.0,
+        "25": 65.0,
+        "26": 70.0,
+        "27": 70.0,
+        "28": 64.0,
+        "29": 60.0,
+        "30": 63.0,
+        "31": 58.0,
+        "32": 59.0,
+        "33": 60.0,
+        "34": 64.0,
+        "35": 60.0,
+        "36": 65.0,
+        "37": 65.0,
+        "38": 64.0,
+        "39": 70.0,
+        "40": 75.0,
+        "41": 60.0,
+        "42": 65.0,
+        "43": 57.0,
+        "44": 62.0,
+        "45": 56.0,
+        "46": 57.0,
+        "47": 60.0,
+        "48": 50.0,
+        "49": 56.0,
+        "50": 64.0,
+        "51": 65.0,
+        "52": 59.0,
+        "53": 60.0,
+        "54": 62.0,
+        "55": 64.0,
+        "56": 60.0,
+        "57": 64.0,
+        "58": 72.0,
+        "59": 62.0,
+        "60": 60.0,
+        "61": 64.0,
+        "62": 64.0,
+        "63": 60.0,
+        "64": 62.0,
+        "65": 60.0,
+        "66": 62.0,
+        "67": 63.0,
+        "68": 58.0,
+        "69": 59.0,
+        "70": 58.0,
+        "71": 60.0,
+        "72": 58.0,
+        "73": 70.0,
+        "74": 60.0,
+        "75": 60.0,
+        "76": 62.0,
+        "77": 63.0,
+        "78": 70.0,
+        "79": 72.0,
+        "80": 64.0,
+        "81": 64.0,
+        "82": 64.0,
+        "83": 62.0,
+        "84": 64.0,
+        "85": 68.0,
+        "86": 70.0
+      },
+      "allowedFractions": {
+        "1": [
+          1,
+          2,
+          3
+        ],
+        "2": [
+          1,
+          2,
+          3
+        ],
+        "3": [
+          1,
+          2,
+          3
+        ],
+        "4": [
+          1,
+          2,
+          3
+        ],
+        "5": [
+          1,
+          2,
+          3
+        ],
+        "6": [
+          1,
+          2,
+          3
+        ],
+        "7": [
+          1,
+          2,
+          3
+        ],
+        "8": [
+          1,
+          2,
+          3
+        ],
+        "9": [
+          1,
+          2,
+          3
+        ],
+        "10": [
+          1,
+          2,
+          3
+        ],
+        "11": [
+          1,
+          2,
+          3
+        ],
+        "12": [
+          1,
+          2,
+          3
+        ],
+        "13": [
+          1,
+          2,
+          3
+        ],
+        "14": [
+          1,
+          2,
+          3
+        ],
+        "15": [
+          1,
+          2,
+          3
+        ],
+        "16": [
+          1,
+          2,
+          3
+        ],
+        "17": [
+          1,
+          2,
+          3
+        ],
+        "18": [
+          1,
+          2,
+          3
+        ],
+        "19": [
+          1,
+          2,
+          3
+        ],
+        "20": [
+          1,
+          2,
+          3
+        ],
+        "21": [
+          1,
+          2,
+          3
+        ],
+        "22": [
+          1,
+          2,
+          3
+        ],
+        "23": [
+          1,
+          2,
+          3
+        ],
+        "24": [
+          1,
+          2,
+          3
+        ],
+        "25": [
+          1,
+          2,
+          3
+        ],
+        "26": [
+          1,
+          2,
+          3
+        ],
+        "27": [
+          1,
+          2,
+          3
+        ],
+        "28": [
+          1,
+          2,
+          3
+        ],
+        "29": [
+          1,
+          2,
+          3
+        ],
+        "30": [
+          1,
+          2,
+          3
+        ],
+        "31": [
+          1,
+          2,
+          3
+        ],
+        "32": [
+          1,
+          2,
+          3
+        ],
+        "33": [
+          1,
+          2,
+          3
+        ],
+        "34": [
+          1,
+          2,
+          3
+        ],
+        "35": [
+          1,
+          2,
+          3
+        ],
+        "36": [
+          1,
+          2,
+          3
+        ],
+        "37": [
+          1,
+          2,
+          3
+        ],
+        "38": [
+          1,
+          2,
+          3
+        ],
+        "39": [
+          1,
+          2,
+          3
+        ],
+        "40": [
+          1,
+          2,
+          3
+        ],
+        "41": [
+          1,
+          2,
+          3
+        ],
+        "42": [
+          1,
+          2,
+          3
+        ],
+        "43": [
+          1,
+          2,
+          3
+        ],
+        "44": [
+          1,
+          2,
+          3
+        ],
+        "45": [
+          1,
+          2,
+          3
+        ],
+        "46": [
+          1,
+          2,
+          3
+        ],
+        "47": [
+          1,
+          2,
+          3
+        ],
+        "48": [
+          1,
+          2,
+          3
+        ],
+        "49": [
+          1,
+          2,
+          3
+        ],
+        "50": [
+          1,
+          2,
+          3
+        ],
+        "51": [
+          1,
+          2,
+          3
+        ],
+        "52": [
+          1,
+          2,
+          3
+        ],
+        "53": [
+          1,
+          2,
+          3
+        ],
+        "54": [
+          1,
+          2,
+          3
+        ],
+        "55": [
+          1,
+          2,
+          3
+        ],
+        "56": [
+          1,
+          2,
+          3
+        ],
+        "57": [
+          1,
+          2,
+          3
+        ],
+        "58": [
+          1,
+          2,
+          3
+        ],
+        "59": [
+          1,
+          2,
+          3
+        ],
+        "60": [
+          1,
+          2,
+          3
+        ],
+        "61": [
+          1,
+          2,
+          3
+        ],
+        "62": [
+          1,
+          2,
+          3
+        ],
+        "63": [
+          1,
+          2,
+          3
+        ],
+        "64": [
+          1,
+          2,
+          3
+        ],
+        "65": [
+          1,
+          2,
+          3
+        ],
+        "66": [
+          1,
+          2,
+          3
+        ],
+        "67": [
+          1,
+          2,
+          3
+        ],
+        "68": [
+          1,
+          2,
+          3
+        ],
+        "69": [
+          1,
+          2,
+          3
+        ],
+        "70": [
+          1,
+          2,
+          3
+        ],
+        "71": [
+          1,
+          2,
+          3
+        ],
+        "72": [
+          1,
+          2,
+          3
+        ],
+        "73": [
+          1,
+          2,
+          3
+        ],
+        "74": [
+          1,
+          2,
+          3
+        ],
+        "75": [
+          1,
+          2,
+          3
+        ],
+        "76": [
+          1,
+          2,
+          3
+        ],
+        "77": [
+          1,
+          2,
+          3
+        ],
+        "78": [
+          1,
+          2,
+          3
+        ],
+        "79": [
+          1,
+          2,
+          3
+        ],
+        "80": [
+          1,
+          2,
+          3
+        ],
+        "81": [
+          1,
+          2,
+          3
+        ],
+        "82": [
+          1,
+          2,
+          3
+        ],
+        "83": [
+          1,
+          2,
+          3
+        ],
+        "84": [
+          1,
+          2,
+          3
+        ],
+        "85": [
+          1,
+          2,
+          3
+        ],
+        "86": [
+          1,
+          2,
+          3
+        ]
+      },
+      "crusts": [
+        {
+          "id": 1,
+          "name": "Sem borda",
+          "price": 0.0
+        },
+        {
+          "id": 2,
+          "name": "Cheddar",
+          "price": 15.0
+        },
+        {
+          "id": 3,
+          "name": "Catupiry",
+          "price": 15.0
+        },
+        {
+          "id": 4,
+          "name": "Cream Cheese",
+          "price": 15.0
+        },
+        {
+          "id": 5,
+          "name": "Catupiry Original",
+          "price": 15.0
+        },
+        {
+          "id": 6,
+          "name": "Chocolate",
+          "price": 15.0
+        },
+        {
+          "id": 7,
+          "name": "Borda Vulcão · Cheddar",
+          "price": 22.0
+        },
+        {
+          "id": 8,
+          "name": "Borda Vulcão · Catupiry",
+          "price": 22.0
+        },
+        {
+          "id": 9,
+          "name": "Borda Vulcão · Catupiry Original",
+          "price": 25.0
+        },
+        {
+          "id": 10,
+          "name": "Borda Vulcão · Mussarela",
+          "price": 25.0
+        },
+        {
+          "id": 11,
+          "name": "Borda Vulcão · Chocolate",
+          "price": 25.0
+        }
+      ]
+    },
+    {
+      "id": 1122,
+      "name": "Broto",
+      "basePrice": 40.0,
+      "maxFlavors": 2,
+      "priceBehavior": "highest",
+      "prices": {
+        "1": 50.0,
+        "2": 58.0,
+        "3": 53.0,
+        "4": 40.0,
+        "5": 54.0,
+        "6": 54.0,
+        "7": 48.0,
+        "8": 54.0,
+        "9": 50.0,
+        "10": 47.0,
+        "11": 50.0,
+        "12": 50.0,
+        "13": 50.0,
+        "14": 55.0,
+        "15": 52.0,
+        "16": 40.0,
+        "17": 50.0,
+        "18": 40.0,
+        "19": 60.0,
+        "20": 52.0,
+        "21": 53.0,
+        "22": 55.0,
+        "23": 40.0,
+        "24": 48.0,
+        "25": 55.0,
+        "26": 60.0,
+        "27": 60.0,
+        "28": 54.0,
+        "29": 50.0,
+        "30": 53.0,
+        "31": 48.0,
+        "32": 49.0,
+        "33": 50.0,
+        "34": 54.0,
+        "35": 50.0,
+        "36": 55.0,
+        "37": 55.0,
+        "38": 54.0,
+        "39": 60.0,
+        "40": 65.0,
+        "41": 50.0,
+        "42": 55.0,
+        "43": 47.0,
+        "44": 52.0,
+        "45": 46.0,
+        "46": 47.0,
+        "47": 50.0,
+        "48": 40.0,
+        "49": 46.0,
+        "50": 54.0,
+        "51": 55.0,
+        "52": 49.0,
+        "53": 50.0,
+        "54": 52.0,
+        "55": 54.0,
+        "56": 50.0,
+        "57": 54.0,
+        "58": 62.0,
+        "59": 52.0,
+        "60": 50.0,
+        "61": 54.0,
+        "62": 54.0,
+        "63": 50.0,
+        "64": 52.0,
+        "65": 50.0,
+        "66": 52.0,
+        "67": 53.0,
+        "68": 48.0,
+        "69": 49.0,
+        "70": 48.0,
+        "71": 50.0,
+        "72": 48.0,
+        "73": 60.0,
+        "74": 50.0,
+        "75": 50.0,
+        "76": 52.0,
+        "77": 53.0,
+        "78": 60.0,
+        "79": 62.0,
+        "80": 54.0,
+        "81": 54.0,
+        "82": 54.0,
+        "83": 52.0,
+        "84": 54.0,
+        "85": 58.0,
+        "86": 60.0
+      },
+      "allowedFractions": {
+        "1": [
+          1,
+          2
+        ],
+        "2": [
+          1,
+          2
+        ],
+        "3": [
+          1,
+          2
+        ],
+        "4": [
+          1,
+          2
+        ],
+        "5": [
+          1,
+          2
+        ],
+        "6": [
+          1,
+          2
+        ],
+        "7": [
+          1,
+          2
+        ],
+        "8": [
+          1,
+          2
+        ],
+        "9": [
+          1,
+          2
+        ],
+        "10": [
+          1,
+          2
+        ],
+        "11": [
+          1,
+          2
+        ],
+        "12": [
+          1,
+          2
+        ],
+        "13": [
+          1,
+          2
+        ],
+        "14": [
+          1,
+          2
+        ],
+        "15": [
+          1,
+          2
+        ],
+        "16": [
+          1,
+          2
+        ],
+        "17": [
+          1,
+          2
+        ],
+        "18": [
+          1,
+          2
+        ],
+        "19": [
+          1,
+          2
+        ],
+        "20": [
+          1,
+          2
+        ],
+        "21": [
+          1,
+          2
+        ],
+        "22": [
+          1,
+          2
+        ],
+        "23": [
+          1,
+          2
+        ],
+        "24": [
+          1,
+          2
+        ],
+        "25": [
+          1,
+          2
+        ],
+        "26": [
+          1,
+          2
+        ],
+        "27": [
+          1,
+          2
+        ],
+        "28": [
+          1,
+          2
+        ],
+        "29": [
+          1,
+          2
+        ],
+        "30": [
+          1,
+          2
+        ],
+        "31": [
+          1,
+          2
+        ],
+        "32": [
+          1,
+          2
+        ],
+        "33": [
+          1,
+          2
+        ],
+        "34": [
+          1,
+          2
+        ],
+        "35": [
+          1,
+          2
+        ],
+        "36": [
+          1,
+          2
+        ],
+        "37": [
+          1,
+          2
+        ],
+        "38": [
+          1,
+          2
+        ],
+        "39": [
+          1,
+          2
+        ],
+        "40": [
+          1,
+          2
+        ],
+        "41": [
+          1,
+          2
+        ],
+        "42": [
+          1,
+          2
+        ],
+        "43": [
+          1,
+          2
+        ],
+        "44": [
+          1,
+          2
+        ],
+        "45": [
+          1,
+          2
+        ],
+        "46": [
+          1,
+          2
+        ],
+        "47": [
+          1,
+          2
+        ],
+        "48": [
+          1,
+          2
+        ],
+        "49": [
+          1,
+          2
+        ],
+        "50": [
+          1,
+          2
+        ],
+        "51": [
+          1,
+          2
+        ],
+        "52": [
+          1,
+          2
+        ],
+        "53": [
+          1,
+          2
+        ],
+        "54": [
+          1,
+          2
+        ],
+        "55": [
+          1,
+          2
+        ],
+        "56": [
+          1,
+          2
+        ],
+        "57": [
+          1,
+          2
+        ],
+        "58": [
+          1,
+          2
+        ],
+        "59": [
+          1,
+          2
+        ],
+        "60": [
+          1,
+          2
+        ],
+        "61": [
+          1,
+          2
+        ],
+        "62": [
+          1,
+          2
+        ],
+        "63": [
+          1,
+          2
+        ],
+        "64": [
+          1,
+          2
+        ],
+        "65": [
+          1,
+          2
+        ],
+        "66": [
+          1,
+          2
+        ],
+        "67": [
+          1,
+          2
+        ],
+        "68": [
+          1,
+          2
+        ],
+        "69": [
+          1,
+          2
+        ],
+        "70": [
+          1,
+          2
+        ],
+        "71": [
+          1,
+          2
+        ],
+        "72": [
+          1,
+          2
+        ],
+        "73": [
+          1,
+          2
+        ],
+        "74": [
+          1,
+          2
+        ],
+        "75": [
+          1,
+          2
+        ],
+        "76": [
+          1,
+          2
+        ],
+        "77": [
+          1,
+          2
+        ],
+        "78": [
+          1,
+          2
+        ],
+        "79": [
+          1,
+          2
+        ],
+        "80": [
+          1,
+          2
+        ],
+        "81": [
+          1,
+          2
+        ],
+        "82": [
+          1,
+          2
+        ],
+        "83": [
+          1,
+          2
+        ],
+        "84": [
+          1,
+          2
+        ],
+        "85": [
+          1,
+          2
+        ],
+        "86": [
+          1,
+          2
+        ]
+      },
+      "crusts": [
+        {
+          "id": 1,
+          "name": "Sem borda",
+          "price": 0.0
+        },
+        {
+          "id": 2,
+          "name": "Cheddar",
+          "price": 15.0
+        },
+        {
+          "id": 3,
+          "name": "Catupiry",
+          "price": 15.0
+        },
+        {
+          "id": 4,
+          "name": "Cream Cheese",
+          "price": 15.0
+        },
+        {
+          "id": 5,
+          "name": "Catupiry Original",
+          "price": 15.0
+        },
+        {
+          "id": 6,
+          "name": "Chocolate",
+          "price": 15.0
+        }
+      ]
+    }
+  ],
+  "flavors": [
+    {
+      "id": 1,
+      "name": "01 - A Moda da Casa",
+      "description": "Mussarela, presunto, palmito e milho",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/01.webp"
+    },
+    {
+      "id": 2,
+      "name": "02 - A Moda do Chefe",
+      "description": "Frango, milho verde, catupiry, mussarela e bacon",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/02.webp"
+    },
+    {
+      "id": 3,
+      "name": "03 - Alemã",
+      "description": "Catupiry, calabresa moída e parmesão",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/03.webp"
+    },
+    {
+      "id": 4,
+      "name": "04 - Alho e Óleo",
+      "description": "Mussarela e alho frito",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/04.webp"
+    },
+    {
+      "id": 5,
+      "name": "05 - Aliche",
+      "description": "Filé de anchova, mussarela e parmesão",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/05.webp"
+    },
+    {
+      "id": 6,
+      "name": "06 - Americana",
+      "description": "Mussarela, bacon, ovos e presunto",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/06.webp"
+    },
+    {
+      "id": 7,
+      "name": "07 - Atum",
+      "description": "Atum e cebola",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/07.webp"
+    },
+    {
+      "id": 8,
+      "name": "08 - Aurogetts",
+      "description": "Mussarela, cheddar e bacon",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/08.webp"
+    },
+    {
+      "id": 9,
+      "name": "09 - Bacon",
+      "description": "Mussarela, bacon e ovos",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/09.webp"
+    },
+    {
+      "id": 10,
+      "name": "10 - Baiana",
+      "description": "Calabresa moída, cebola, pimenta e ovos",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/10.webp"
+    },
+    {
+      "id": 11,
+      "name": "11 - Baiana II",
+      "description": "Calabresa moída, ovos, cebola, pimenta e mussarela",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/11.webp"
+    },
+    {
+      "id": 12,
+      "name": "12 - Bauru",
+      "description": "Presunto, mussarela e tomate",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/12.webp"
+    },
+    {
+      "id": 13,
+      "name": "13 - Brócolis",
+      "description": "Brócolis com mussarela",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/13.webp"
+    },
+    {
+      "id": 14,
+      "name": "14 - Brócolis Especial",
+      "description": "Brócolis, mussarela, parmesão, bacon e alho frito",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/14.webp"
+    },
+    {
+      "id": 15,
+      "name": "15 - Caipira",
+      "description": "Peito de frango desfiado, catupiry e milho",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/15.webp"
+    },
+    {
+      "id": 16,
+      "name": "16 - Calabresa",
+      "description": "Calabresa fatiada e cebola",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/16.webp"
+    },
+    {
+      "id": 17,
+      "name": "17 - Calabresa Especial",
+      "description": "Calabresa fatiada, tomate, cebola e cobertura de mussarela",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/01.webp"
+    },
+    {
+      "id": 18,
+      "name": "18 - Calabresa Moída",
+      "description": "Calabresa moída e cebola",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/02.webp"
+    },
+    {
+      "id": 19,
+      "name": "19 - Camarão",
+      "description": "Camarão, cebola e mussarela ou catupiry",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/03.webp"
+    },
+    {
+      "id": 20,
+      "name": "20 - Canadense",
+      "description": "Lombo defumado, cebola e mussarela",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/04.webp"
+    },
+    {
+      "id": 21,
+      "name": "21 - Carioca",
+      "description": "Atum, palmito, ovos, cebola e cobertura de mussarela",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/05.webp"
+    },
+    {
+      "id": 22,
+      "name": "22 - Carne Seca",
+      "description": "Carne seca, cebola e mussarela",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/06.webp"
+    },
+    {
+      "id": 23,
+      "name": "23 - Catupiry",
+      "description": "Catupiry e tomate",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/07.webp"
+    },
+    {
+      "id": 24,
+      "name": "24 - Champignon",
+      "description": "Mussarela e champignon",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/08.webp"
+    },
+    {
+      "id": 25,
+      "name": "25 - Cinco Queijos",
+      "description": "Mussarela, catupiry, provolone, parmesão e gorgonzola",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/09.webp"
+    },
+    {
+      "id": 26,
+      "name": "26 - Contra Filé",
+      "description": "Mussarela, contra filé, cebola e molho barbecue",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/10.webp"
+    },
+    {
+      "id": 27,
+      "name": "27 - Costela",
+      "description": "Mussarela, costela, molho barbecue e cebola",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/11.webp"
+    },
+    {
+      "id": 28,
+      "name": "28 - Cream Cheese",
+      "description": "Cream cheese, peito de frango desfiado e bacon",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/12.webp"
+    },
+    {
+      "id": 29,
+      "name": "29 - Cubana",
+      "description": "Peito de frango desfiado e mussarela",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/13.webp"
+    },
+    {
+      "id": 30,
+      "name": "30 - Da Mama",
+      "description": "Peito de frango desfiado, bacon, palmito e catupiry",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/14.webp"
+    },
+    {
+      "id": 31,
+      "name": "31 - Dois Queijos",
+      "description": "Mussarela e catupiry",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/15.webp"
+    },
+    {
+      "id": 32,
+      "name": "32 - Escarola",
+      "description": "Escarola coberta com mussarela",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/16.webp"
+    },
+    {
+      "id": 33,
+      "name": "33 - Escarola Especial",
+      "description": "Escarola, bacon e mussarela",
+      "category": "Tradicionais",
+      "image": "assets/pizzas/01.webp"
+    },
+    {
+      "id": 34,
+      "name": "34 - Francesa",
+      "description": "Champignon, bacon, mussarela e catupiry",
+      "category": "Especiais",
+      "image": "assets/pizzas/02.webp"
+    },
+    {
+      "id": 35,
+      "name": "35 - Frango",
+      "description": "Peito de frango desfiado e catupiry",
+      "category": "Especiais",
+      "image": "assets/pizzas/03.webp"
+    },
+    {
+      "id": 36,
+      "name": "36 - Frango Quatro Queijos",
+      "description": "Frango, mussarela, catupiry, provolone e parmesão",
+      "category": "Especiais",
+      "image": "assets/pizzas/04.webp"
+    },
+    {
+      "id": 37,
+      "name": "37 - Frango Especial",
+      "description": "Peito de frango desfiado, bacon e mussarela",
+      "category": "Especiais",
+      "image": "assets/pizzas/05.webp"
+    },
+    {
+      "id": 38,
+      "name": "38 - Frango com Cheddar",
+      "description": "Frango, cheddar e bacon",
+      "category": "Especiais",
+      "image": "assets/pizzas/06.webp"
+    },
+    {
+      "id": 39,
+      "name": "39 - Gaúcha",
+      "description": "Contra filé, palmito e catupiry ou mussarela",
+      "category": "Especiais",
+      "image": "assets/pizzas/07.webp"
+    },
+    {
+      "id": 40,
+      "name": "40 - Gaúcha Especial",
+      "description": "Contra filé, palmito, brócolis e catupiry ou mussarela",
+      "category": "Especiais",
+      "image": "assets/pizzas/08.webp"
+    },
+    {
+      "id": 41,
+      "name": "41 - Jardineira",
+      "description": "Mussarela, calabresa moída e palmito",
+      "category": "Especiais",
+      "image": "assets/pizzas/09.webp"
+    },
+    {
+      "id": 42,
+      "name": "42 - Jordan",
+      "description": "Molho barbecue, mussarela, linguiça fresca e bacon",
+      "category": "Especiais",
+      "image": "assets/pizzas/10.webp"
+    },
+    {
+      "id": 43,
+      "name": "43 - Lombo",
+      "description": "Lombo defumado e cebola",
+      "category": "Especiais",
+      "image": "assets/pizzas/11.webp"
+    },
+    {
+      "id": 44,
+      "name": "44 - Lombo ao Catupiry",
+      "description": "Lombo defumado e catupiry",
+      "category": "Especiais",
+      "image": "assets/pizzas/12.webp"
+    },
+    {
+      "id": 45,
+      "name": "45 - Marguerita",
+      "description": "Mussarela, tomate, parmesão e manjericão",
+      "category": "Especiais",
+      "image": "assets/pizzas/13.webp"
+    },
+    {
+      "id": 46,
+      "name": "46 - Milho Verde",
+      "description": "Milho verde e mussarela",
+      "category": "Especiais",
+      "image": "assets/pizzas/14.webp"
+    },
+    {
+      "id": 47,
+      "name": "47 - Mista",
+      "description": "Mussarela e calabresa fatiada",
+      "category": "Especiais",
+      "image": "assets/pizzas/15.webp"
+    },
+    {
+      "id": 48,
+      "name": "48 - Mussarela",
+      "description": "Mussarela",
+      "category": "Especiais",
+      "image": "assets/pizzas/16.webp"
+    },
+    {
+      "id": 49,
+      "name": "49 - Napolitana",
+      "description": "Mussarela, molho de tomate e parmesão",
+      "category": "Especiais",
+      "image": "assets/pizzas/01.webp"
+    },
+    {
+      "id": 50,
+      "name": "50 - Nevada",
+      "description": "Molho barbecue, mussarela, peperoni, linguiça fresca e bacon",
+      "category": "Especiais",
+      "image": "assets/pizzas/02.webp"
+    },
+    {
+      "id": 51,
+      "name": "51 - New York",
+      "description": "Mussarela, linguiça fresca, lombo canadense, catupiry e bacon",
+      "category": "Especiais",
+      "image": "assets/pizzas/03.webp"
+    },
+    {
+      "id": 52,
+      "name": "52 - Palmito",
+      "description": "Palmito e mussarela",
+      "category": "Especiais",
+      "image": "assets/pizzas/04.webp"
+    },
+    {
+      "id": 53,
+      "name": "53 - Peito de Peru",
+      "description": "Peito de peru com mussarela",
+      "category": "Especiais",
+      "image": "assets/pizzas/05.webp"
+    },
+    {
+      "id": 54,
+      "name": "54 - Peito de Peru II",
+      "description": "Peito de peru com mussarela e catupiry",
+      "category": "Especiais",
+      "image": "assets/pizzas/06.webp"
+    },
+    {
+      "id": 55,
+      "name": "55 - Peito de Peru Especial",
+      "description": "Peito de peru, palmito e milho com cobertura de mussarela ou catupiry",
+      "category": "Especiais",
+      "image": "assets/pizzas/07.webp"
+    },
+    {
+      "id": 56,
+      "name": "56 - Peperone",
+      "description": "Peperone, cebola e mussarela",
+      "category": "Especiais",
+      "image": "assets/pizzas/08.webp"
+    },
+    {
+      "id": 57,
+      "name": "57 - Peperoni II",
+      "description": "Peperone, tomate, palmito e mussarela",
+      "category": "Especiais",
+      "image": "assets/pizzas/09.webp"
+    },
+    {
+      "id": 58,
+      "name": "58 - Peperone ao Cream Cheese",
+      "description": "Peperone, cream cheese e bacon",
+      "category": "Especiais",
+      "image": "assets/pizzas/10.webp"
+    },
+    {
+      "id": 59,
+      "name": "59 - Peruana",
+      "description": "Atum e mussarela",
+      "category": "Especiais",
+      "image": "assets/pizzas/11.webp"
+    },
+    {
+      "id": 60,
+      "name": "60 - Portuguesa",
+      "description": "Mussarela, presunto, ovos e cebola",
+      "category": "Especiais",
+      "image": "assets/pizzas/12.webp"
+    },
+    {
+      "id": 61,
+      "name": "61 - Primavera",
+      "description": "Calabresa fatiada, palmito e mussarela",
+      "category": "Especiais",
+      "image": "assets/pizzas/13.webp"
+    },
+    {
+      "id": 62,
+      "name": "62 - Quatro Queijos",
+      "description": "Mussarela, catupiry, provolone e parmesão",
+      "category": "Especiais",
+      "image": "assets/pizzas/14.webp"
+    },
+    {
+      "id": 63,
+      "name": "63 - Rúcula",
+      "description": "Rúcula, mussarela de búfala e tomate seco",
+      "category": "Especiais",
+      "image": "assets/pizzas/15.webp"
+    },
+    {
+      "id": 64,
+      "name": "64 - Tomate Seco",
+      "description": "Tomate seco e mussarela de búfala",
+      "category": "Especiais",
+      "image": "assets/pizzas/16.webp"
+    },
+    {
+      "id": 65,
+      "name": "65 - Toscana",
+      "description": "Mussarela e calabresa moída",
+      "category": "Especiais",
+      "image": "assets/pizzas/01.webp"
+    },
+    {
+      "id": 66,
+      "name": "66 - Três Queijos",
+      "description": "Mussarela, provolone e parmesão",
+      "category": "Especiais",
+      "image": "assets/pizzas/02.webp"
+    },
+    {
+      "id": 67,
+      "name": "67 - Vegetariana",
+      "description": "Escarola, palmito, milho, ervilha, tomate e mussarela",
+      "category": "Especiais",
+      "image": "assets/pizzas/03.webp"
+    },
+    {
+      "id": 68,
+      "name": "68 - Banana",
+      "description": "Banana, leite condensado, mussarela e canela",
+      "category": "Doces",
+      "image": "assets/pizzas/04.webp"
+    },
+    {
+      "id": 69,
+      "name": "69 - Banana II",
+      "description": "Banana, canela e chocolate branco gratinado",
+      "category": "Doces",
+      "image": "assets/pizzas/05.webp"
+    },
+    {
+      "id": 70,
+      "name": "70 - Brigadeiro",
+      "description": "Chocolate ao leite e granulado",
+      "category": "Doces",
+      "image": "assets/pizzas/06.webp"
+    },
+    {
+      "id": 71,
+      "name": "71 - Chocolate Branco",
+      "description": "Chocolate branco com pedaços de morango",
+      "category": "Doces",
+      "image": "assets/pizzas/07.webp"
+    },
+    {
+      "id": 72,
+      "name": "72 - Choconana",
+      "description": "Chocolate com banana",
+      "category": "Doces",
+      "image": "assets/pizzas/08.webp"
+    },
+    {
+      "id": 73,
+      "name": "73 - Choconinho",
+      "description": "Nutella, uva e creme de ninho",
+      "category": "Doces",
+      "image": "assets/pizzas/09.webp"
+    },
+    {
+      "id": 74,
+      "name": "74 - Chocouva",
+      "description": "Chocolate com uva",
+      "category": "Doces",
+      "image": "assets/pizzas/10.webp"
+    },
+    {
+      "id": 75,
+      "name": "75 - Doce de Leite I",
+      "description": "Doce de leite com pedaços de morango",
+      "category": "Doces",
+      "image": "assets/pizzas/11.webp"
+    },
+    {
+      "id": 76,
+      "name": "76 - Mini Oreo",
+      "description": "Chocolate preto e branco, mini Oreo e coco ralado",
+      "category": "Doces",
+      "image": "assets/pizzas/12.webp"
+    },
+    {
+      "id": 77,
+      "name": "77 - Moranguete",
+      "description": "Creme de morango, creme de ninho e morango",
+      "category": "Doces",
+      "image": "assets/pizzas/13.webp"
+    },
+    {
+      "id": 78,
+      "name": "78 - M&M's",
+      "description": "Chocolate ao leite e m&m's",
+      "category": "Doces",
+      "image": "assets/pizzas/14.webp"
+    },
+    {
+      "id": 79,
+      "name": "79 - Nutella",
+      "description": "Nutella com pedaços de morango",
+      "category": "Doces",
+      "image": "assets/pizzas/15.webp"
+    },
+    {
+      "id": 80,
+      "name": "80 - Ouro Branco",
+      "description": "Chocolate ao leite e bombom Ouro Branco",
+      "category": "Doces",
+      "image": "assets/pizzas/16.webp"
+    },
+    {
+      "id": 81,
+      "name": "81 - Prestígio",
+      "description": "Chocolate ao leite, coco ralado e leite condensado",
+      "category": "Doces",
+      "image": "assets/pizzas/01.webp"
+    },
+    {
+      "id": 82,
+      "name": "82 - Romeu e Julieta",
+      "description": "Goiabada e mussarela",
+      "category": "Doces",
+      "image": "assets/pizzas/02.webp"
+    },
+    {
+      "id": 83,
+      "name": "83 - Sensação",
+      "description": "Chocolate ao leite, morango e chocolate granulado",
+      "category": "Doces",
+      "image": "assets/pizzas/03.webp"
+    },
+    {
+      "id": 84,
+      "name": "84 - Sonho de Valsa",
+      "description": "Chocolate ao leite com pedaços de Sonho de Valsa",
+      "category": "Doces",
+      "image": "assets/pizzas/04.webp"
+    },
+    {
+      "id": 85,
+      "name": "85 - Tentação",
+      "description": "Chocolate ao leite, morango e Kit Kat",
+      "category": "Doces",
+      "image": "assets/pizzas/05.webp"
+    },
+    {
+      "id": 86,
+      "name": "86 - Tortuguita",
+      "description": "Chocolate ao leite, chocolate branco, M&M's e Tortuguita",
+      "category": "Doces",
+      "image": "assets/pizzas/06.webp"
+    }
+  ],
+  "doughs": [
+    {
+      "id": 16,
+      "name": "Massa Tradicional",
+      "price": 0.0
+    }
+  ],
+  "drinks": [
+    {
+      "id": 2001,
+      "name": "Esfiha · Carne",
+      "description": "Esfiha salgada tradicional.",
+      "price": 4.3,
+      "image": "assets/pizzas/01.webp"
+    },
+    {
+      "id": 2002,
+      "name": "Esfiha · Queijo",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.3,
+      "image": "assets/pizzas/02.webp"
+    },
+    {
+      "id": 2003,
+      "name": "Esfiha · Catupiry",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.0,
+      "image": "assets/pizzas/03.webp"
+    },
+    {
+      "id": 2004,
+      "name": "Esfiha · Calabresa",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.0,
+      "image": "assets/pizzas/04.webp"
+    },
+    {
+      "id": 2005,
+      "name": "Esfiha · Mussarela",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.4,
+      "image": "assets/pizzas/05.webp"
+    },
+    {
+      "id": 2006,
+      "name": "Esfiha · Atum",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.0,
+      "image": "assets/pizzas/06.webp"
+    },
+    {
+      "id": 2007,
+      "name": "Esfiha · Atum com Mussarela",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.6,
+      "image": "assets/pizzas/07.webp"
+    },
+    {
+      "id": 2008,
+      "name": "Esfiha · Frango com Catupiry",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.6,
+      "image": "assets/pizzas/08.webp"
+    },
+    {
+      "id": 2009,
+      "name": "Esfiha · Calabresa com Catupiry",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.4,
+      "image": "assets/pizzas/09.webp"
+    },
+    {
+      "id": 2010,
+      "name": "Esfiha · Palmito com Catupiry",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.6,
+      "image": "assets/pizzas/10.webp"
+    },
+    {
+      "id": 2011,
+      "name": "Esfiha · Escarola com Catupiry ou Mussarela",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.6,
+      "image": "assets/pizzas/11.webp"
+    },
+    {
+      "id": 2012,
+      "name": "Esfiha · Catupiry com Milho",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.4,
+      "image": "assets/pizzas/12.webp"
+    },
+    {
+      "id": 2013,
+      "name": "Esfiha · Catupiry e Mussarela",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.7,
+      "image": "assets/pizzas/13.webp"
+    },
+    {
+      "id": 2014,
+      "name": "Esfiha · Presunto e Mussarela",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.6,
+      "image": "assets/pizzas/14.webp"
+    },
+    {
+      "id": 2015,
+      "name": "Esfiha · Frango, Catupiry e Milho",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.6,
+      "image": "assets/pizzas/15.webp"
+    },
+    {
+      "id": 2016,
+      "name": "Esfiha · Carne Seca com Mussarela",
+      "description": "Esfiha salgada tradicional.",
+      "price": 6.6,
+      "image": "assets/pizzas/16.webp"
+    },
+    {
+      "id": 2017,
+      "name": "Esfiha · Carne Seca com Catupiry",
+      "description": "Esfiha salgada tradicional.",
+      "price": 6.7,
+      "image": "assets/pizzas/01.webp"
+    },
+    {
+      "id": 2018,
+      "name": "Esfiha · Bauru",
+      "description": "Presunto, mussarela e tomate.",
+      "price": 5.8,
+      "image": "assets/pizzas/02.webp"
+    },
+    {
+      "id": 2019,
+      "name": "Esfiha · Escarola, Bacon e Mussarela",
+      "description": "Esfiha salgada tradicional.",
+      "price": 5.8,
+      "image": "assets/pizzas/03.webp"
+    },
+    {
+      "id": 2020,
+      "name": "Esfiha Doce · Chocolate Granulado",
+      "description": "Esfiha doce.",
+      "price": 9.0,
+      "image": "assets/pizzas/04.webp"
+    },
+    {
+      "id": 2021,
+      "name": "Esfiha Doce · Chocolate com Banana",
+      "description": "Esfiha doce.",
+      "price": 9.0,
+      "image": "assets/pizzas/05.webp"
+    },
+    {
+      "id": 2022,
+      "name": "Esfiha Doce · Chocolate Branco e Granulado",
+      "description": "Esfiha doce.",
+      "price": 9.0,
+      "image": "assets/pizzas/06.webp"
+    },
+    {
+      "id": 2023,
+      "name": "Esfiha Doce · Romeu e Julieta",
+      "description": "Esfiha doce.",
+      "price": 9.0,
+      "image": "assets/pizzas/07.webp"
+    },
+    {
+      "id": 2024,
+      "name": "Esfiha Doce · Banana",
+      "description": "Banana, mussarela, canela e leite condensado.",
+      "price": 9.0,
+      "image": "assets/pizzas/08.webp"
+    },
+    {
+      "id": 2025,
+      "name": "Esfiha Doce · Prestígio",
+      "description": "Chocolate e coco ralado.",
+      "price": 9.8,
+      "image": "assets/pizzas/09.webp"
+    },
+    {
+      "id": 2026,
+      "name": "Esfiha Doce · Chocolate com Morango",
+      "description": "Esfiha doce.",
+      "price": 10.0,
+      "image": "assets/pizzas/10.webp"
+    },
+    {
+      "id": 2027,
+      "name": "Esfiha Doce · Chocolate com M&M's",
+      "description": "Esfiha doce.",
+      "price": 12.0,
+      "image": "assets/pizzas/11.webp"
+    },
+    {
+      "id": 2028,
+      "name": "Esfiha Doce · Nutella com Morango",
+      "description": "Esfiha doce.",
+      "price": 14.0,
+      "image": "assets/pizzas/12.webp"
+    },
+    {
+      "id": 2029,
+      "name": "Esfiha Doce · Choconinho",
+      "description": "Esfiha doce.",
+      "price": 14.0,
+      "image": "assets/pizzas/13.webp"
+    },
+    {
+      "id": 2030,
+      "name": "Esfiha Doce · Nutella com Uva",
+      "description": "Esfiha doce.",
+      "price": 12.0,
+      "image": "assets/pizzas/14.webp"
+    },
+    {
+      "id": 2031,
+      "name": "Esfiha Doce · Ninho com Uva",
+      "description": "Esfiha doce.",
+      "price": 9.0,
+      "image": "assets/pizzas/15.webp"
+    },
+    {
+      "id": 2032,
+      "name": "Esfiha Doce · Ninho com Morango",
+      "description": "Esfiha doce.",
+      "price": 9.0,
+      "image": "assets/pizzas/16.webp"
+    },
+    {
+      "id": 2033,
+      "name": "Esfiha Doce · Moranguete",
+      "description": "Esfiha doce.",
+      "price": 11.0,
+      "image": "assets/pizzas/01.webp"
+    },
+    {
+      "id": 2034,
+      "name": "Esfiha Doce · Nutella com Banana",
+      "description": "Esfiha doce.",
+      "price": 12.0,
+      "image": "assets/pizzas/02.webp"
+    },
+    {
+      "id": 2035,
+      "name": "Esfiha Doce · Doce de Leite com Morango",
+      "description": "Esfiha doce.",
+      "price": 9.0,
+      "image": "assets/pizzas/03.webp"
+    },
+    {
+      "id": 2036,
+      "name": "Esfiha Doce · Sonho de Valsa",
+      "description": "Esfiha doce.",
+      "price": 10.0,
+      "image": "assets/pizzas/04.webp"
+    },
+    {
+      "id": 2037,
+      "name": "Esfiha Doce · Ouro Branco",
+      "description": "Esfiha doce.",
+      "price": 10.0,
+      "image": "assets/pizzas/05.webp"
+    },
+    {
+      "id": 2038,
+      "name": "Esfiha Doce · Kit Kat",
+      "description": "Esfiha doce.",
+      "price": 11.0,
+      "image": "assets/pizzas/06.webp"
+    },
+    {
+      "id": 2039,
+      "name": "Esfiha Doce · Mini Oreo",
+      "description": "Esfiha doce.",
+      "price": 10.0,
+      "image": "assets/pizzas/07.webp"
+    },
+    {
+      "id": 2040,
+      "name": "Beirute · À Moda",
+      "description": "Presunto, catupiry, ovo, mussarela e rosbife. Acompanha maionese, alface e tomate.",
+      "price": 50.0,
+      "image": "assets/pizzas/08.webp"
+    },
+    {
+      "id": 2041,
+      "name": "Beirute · Peito de Peru",
+      "description": "Peito de peru, mussarela, presunto e catupiry. Acompanha maionese, alface e tomate.",
+      "price": 49.0,
+      "image": "assets/pizzas/09.webp"
+    },
+    {
+      "id": 2042,
+      "name": "Beirute · Frango com Catupiry",
+      "description": "Frango desfiado, mussarela, presunto e catupiry. Acompanha maionese, alface e tomate.",
+      "price": 49.0,
+      "image": "assets/pizzas/10.webp"
+    },
+    {
+      "id": 2043,
+      "name": "Beirute · Lombo",
+      "description": "Lombo, mussarela, presunto e catupiry. Acompanha maionese, alface e tomate.",
+      "price": 48.0,
+      "image": "assets/pizzas/11.webp"
+    },
+    {
+      "id": 2044,
+      "name": "Beirute · Calabresa",
+      "description": "Calabresa, mussarela, presunto e cebola. Acompanha maionese, alface e tomate.",
+      "price": 48.0,
+      "image": "assets/pizzas/12.webp"
+    },
+    {
+      "id": 2045,
+      "name": "Beirute · Rosbife",
+      "description": "Rosbife, presunto, mussarela, maionese e ovo. Acompanha maionese, alface e tomate.",
+      "price": 49.0,
+      "image": "assets/pizzas/13.webp"
+    },
+    {
+      "id": 2046,
+      "name": "Beirute · Cheddar",
+      "description": "Peito de peru, bacon, cheddar e mussarela. Acompanha maionese, alface e tomate.",
+      "price": 49.0,
+      "image": "assets/pizzas/14.webp"
+    },
+    {
+      "id": 2047,
+      "name": "Beirute · Contra Filé",
+      "description": "Presunto, contra filé, cebola e mussarela. Acompanha maionese, alface e tomate.",
+      "price": 55.0,
+      "image": "assets/pizzas/15.webp"
+    },
+    {
+      "id": 2048,
+      "name": "Beirute · Churrasco",
+      "description": "Presunto, linguiça fresca, contra filé e vinagrete. Acompanha maionese, alface e tomate.",
+      "price": 60.0,
+      "image": "assets/pizzas/16.webp"
+    },
+    {
+      "id": 2049,
+      "name": "Combo 1",
+      "description": "10 esfihas de carne, 10 esfihas de queijo e 1 Dolly.",
+      "price": 90.0,
+      "image": "assets/pizzas/01.webp"
+    },
+    {
+      "id": 2050,
+      "name": "Combo 2",
+      "description": "15 esfihas de carne, 15 esfihas de queijo e 1 Dolly.",
+      "price": 100.0,
+      "image": "assets/pizzas/02.webp"
+    },
+    {
+      "id": 2051,
+      "name": "Combo 3",
+      "description": "15 esfihas de carne, 10 esfihas de queijo, 5 esfihas de calabresa e 1 Dolly.",
+      "price": 100.0,
+      "image": "assets/pizzas/03.webp"
+    },
+    {
+      "id": 2052,
+      "name": "Combo 4",
+      "description": "10 esfihas de carne, 10 esfihas de queijo, 10 esfihas de frango com catupiry e 1 Dolly.",
+      "price": 105.0,
+      "image": "assets/pizzas/04.webp"
+    },
+    {
+      "id": 2053,
+      "name": "Combo 5",
+      "description": "10 esfihas de carne, 10 esfihas de queijo, 5 esfihas de bauru, 5 esfihas de frango com catupiry e 1 Dolly.",
+      "price": 100.0,
+      "image": "assets/pizzas/05.webp"
+    },
+    {
+      "id": 2054,
+      "name": "Combo 6",
+      "description": "10 esfihas de carne, 10 esfihas de frango com catupiry, 10 esfihas de mussarela e 1 Dolly.",
+      "price": 105.0,
+      "image": "assets/pizzas/06.webp"
+    },
+    {
+      "id": 2055,
+      "name": "Combo 7",
+      "description": "10 esfihas de carne, 10 esfihas de queijo, 10 esfihas de calabresa e 1 Dolly.",
+      "price": 105.0,
+      "image": "assets/pizzas/07.webp"
+    },
+    {
+      "id": 2056,
+      "name": "Combo 8",
+      "description": "10 esfihas de carne, 10 esfihas de queijo, 10 esfihas de bauru e 1 Dolly.",
+      "price": 105.0,
+      "image": "assets/pizzas/08.webp"
+    }
+  ],
+  "deliveryMinutes": [
+    50,
+    70
+  ],
+  "pickupMinutes": 20
+}
